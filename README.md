@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vahya
-- 👀 I’m interested in all kinds of stuff
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in all kinds of stuff (especially compilers)
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me? Github
 
